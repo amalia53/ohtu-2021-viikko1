@@ -135,5 +135,5 @@ public class VarastoTest {
     public void toStringTulostaaVaraston() {
     	assertTrue(saldolla.toString().equals("saldo = 2.0, vielä tilaa 8.0"));
     }
-
+}
 }
