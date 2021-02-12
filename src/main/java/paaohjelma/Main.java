@@ -1,4 +1,5 @@
-package ohtu.ohtuvarasto;
+package paaohjelma;
+import ohtu.ohtuvarasto.*;
 
 public class Main {
 
